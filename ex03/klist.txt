@@ -1,0 +1,5 @@
+Credentials cache: API:86E720B1-06D8-46DE-A9F5-60820E7832A8
+        Principal: dchheang@42.FR
+
+  Issued                Expires             Flags    Principal
+Sep  7 12:40:21 2020  Sep 14 12:40:15 2020  FPIA   krbtgt/42.FR@42.FR
